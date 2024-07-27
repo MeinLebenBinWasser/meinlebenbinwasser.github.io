@@ -15,7 +15,8 @@ body {
   }
 
 html {
-    margin: 50%;
+    margin: 1%;
+    align: center;
 }
 
 /* Example for h1 heading with background */
